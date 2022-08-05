@@ -29,4 +29,4 @@
 
  KoreArch에 대한 기여는 누구나 언제든지 할 수 있습니다. 기여는 번역, 디자인 등 다양한 형태로 이루어질 수 있습니다. KoreArch 레포지토리를 `Fork`하여 작업한 후 `Pull-Request`를 해주세요. 검토 후 병합하겠습니다.
 
- 문의는 `Issue`에 남겨주시거나 [E-mail](chanhyeok@soongsil.ac.kr)로 보내주세요.
+ 문의는 `Issue`에 남겨주시거나 [E-mail](mailto:chanhyeok@soongsil.ac.kr)로 보내주세요.
